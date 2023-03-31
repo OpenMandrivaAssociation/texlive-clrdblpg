@@ -1,6 +1,6 @@
 Name:		texlive-clrdblpg
 Version:	47511
-Release:	1
+Release:	2
 Summary:	Control pagestyle of pages left blank by \cleardoublepage
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/clrdblpg
