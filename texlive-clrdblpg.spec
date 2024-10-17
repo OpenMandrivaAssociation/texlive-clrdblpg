@@ -3,7 +3,7 @@ Version:	47511
 Release:	2
 Summary:	Control pagestyle of pages left blank by \cleardoublepage
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/clrdblpg
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/clrdblpg
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/clrdblpg.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/clrdblpg.doc.r%{version}.tar.xz
